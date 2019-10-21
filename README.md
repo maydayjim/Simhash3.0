@@ -1,2 +1,2 @@
 # Simhash3.0
-The complete Improved algorithm of simhash with TF-IDF
+This is the complete Improved algorithm of simhash with TF-IDF,but the code may can run at your local env becasue paths of some resource is just confinged for my env.
